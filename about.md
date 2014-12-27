@@ -94,7 +94,7 @@ Please type in a donation amount (in dollars), $15 is appreciated. For every dol
 <script src="https://checkout.stripe.com/v2/checkout.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
 
-<button id="customButton">Donate</button>
+<a id="customButton">Donate</a>
 
 
 <script>
