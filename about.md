@@ -89,7 +89,22 @@ We keep our costs pretty low but our domain costs $25 a year, and all the time I
 
 Please type in a donation amount (in dollars), $15 is appreciated. For every dollar we get we can buy 10 days of server time, or 200 leaflets we can use to spread the message of kopimism.
 
-<input type="text" id="amount" value="15">
+<style>
+#amount {
+padding: 10px;
+background: #F9F9F9;
+border: 0;
+font-size: 120%;
+}
+#customButton {
+padding: 10px;
+color: #FFF;
+text-decoration: none;
+cursor: pointer;
+background: #4183C4;
+}
+</style>
+<input type="text" id="amount" value="$15">
 
 <script src="https://checkout.stripe.com/v2/checkout.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
@@ -100,6 +115,7 @@ Please type in a donation amount (in dollars), $15 is appreciated. For every dol
 <script>
 $('#customButton').click(function(){
 var donationamount = document.getElementById('amount').value;
+var donationamount = donationamount.replace("$", "");
 var token = function(res){
 var $input = $('<input type=hidden name=stripeToken />').val(res.id);
 $('form').append($input).submit();
