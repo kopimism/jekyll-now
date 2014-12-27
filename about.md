@@ -91,21 +91,31 @@ Please type in a donation amount (in dollars), $15 is appreciated. For every dol
 
 <input type="text" id="amount" value="15">
 
-<form action="" method="POST">
-  <script
-    src="https://checkout.stripe.com/checkout.js" id="stripe" class="stripe-button"
-    data-key="pk_GNrXrLKfukPKT8VNQS39HHmIrImb0"
-    data-amount="1000"
-    data-name="Donation"
-    data-description="Donation to the Kopimist Church"
-    data-image="/images/logo.png">
-  </script>
-</form>
+<script src="https://checkout.stripe.com/v2/checkout.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+
+<button id="customButton">Donate</button>
+
 
 <script>
-// 'Getting' data-attributes using getAttribute
-var stripe = document.getElementById('stripe');
-var amount = document.getElementById('amount').value;
-// 'Setting' data-attributes using setAttribute
-stripe.setAttribute('data-amount', amount + '00');
+$('#customButton').click(function(){
+var donationamount = document.getElementById('amount').value;
+var token = function(res){
+var $input = $('<input type=hidden name=stripeToken />').val(res.id);
+$('form').append($input).submit();
+};
+
+StripeCheckout.open({
+key:         'pk_GNrXrLKfukPKT8VNQS39HHmIrImb0',
+address:     true,
+amount:      donationamount + '00',
+currency:    'usd',
+name:        'Kopimist Church',
+description: 'Donation of $'+ donationamount,
+panelLabel:  'Checkout',
+token:       token
+});
+
+return false;
+});
 </script>
