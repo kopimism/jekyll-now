@@ -105,7 +105,7 @@ Please type in a donation amount (in dollars), $15 is appreciated. For every dol
 <script>
 // 'Getting' data-attributes using getAttribute
 var stripe = document.getElementById('stripe');
-var amount = document.getElementById('amount');
+var amount = document.getElementById('amount').value;
 // 'Setting' data-attributes using setAttribute
 stripe.setAttribute('data-amount', amount + '00');
 </script>
