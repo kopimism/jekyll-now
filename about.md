@@ -85,7 +85,27 @@ If you identify with Kopimism, and you wan to evangelize the movement we have ro
 
 ### Donate
 
-We keep our costs pretty low but our domain costs $25 a year, and when 
+We keep our costs pretty low but our domain costs $25 a year, and all the time I spend on the church is time that I am not working. Obviously the more that we get the better we can serve our community and provide better outreach. All your donations are tax deductable, if you need a letter from us please email [teamcoltra@gmail.com](mailto:teamcoltra@gmail.com) with your name and address and we will give you a tax receipt.
 
 
+<form action="" method="POST">
+  <script
+    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    data-key="pk_GNrXrLKfukPKT8VNQS39HHmIrImb0"
+    data-amount="1000"
+    data-name="$10 Donation"
+    data-description="$10 Donation to the Kopimist Church"
+    data-image="/images/logo.png">
+  </script>
+</form>
 
+<form action="" method="POST">
+  <script
+    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    data-key="pk_GNrXrLKfukPKT8VNQS39HHmIrImb0"
+    data-amount="2500"
+    data-name="$25 Donation"
+    data-description="$25 Donation to the Kopimist Church"
+    data-image="/images/logo.png">
+  </script>
+</form>
