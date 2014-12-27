@@ -13,16 +13,14 @@ layout: default
 						<li>The internet is holy.</li>
 					</ol>
 					<p>Members of Kopimism (Kopimists) and Church of Kopimism recognized religious representatives (Operators) dedicate their lives to living in accordance with these axioms. The only correct way for a Kopimist to list is through the sanctification of these religious foundations.</p>
+					<p><a href="/about/">Read More About Us</a></p>
 
+### Latest Posts
   {% for post in site.posts %}
     <article class="post">    
       
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.content | truncatewords:40}}
-      </div>
-      
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
