@@ -87,25 +87,25 @@ If you identify with Kopimism, and you wan to evangelize the movement we have ro
 
 We keep our costs pretty low but our domain costs $25 a year, and all the time I spend on the church is time that I am not working. Obviously the more that we get the better we can serve our community and provide better outreach. All your donations are tax deductable, if you need a letter from us please email [teamcoltra@gmail.com](mailto:teamcoltra@gmail.com) with your name and address and we will give you a tax receipt.
 
+Please type in a donation amount (in dollars), $15 is appreciated. For every dollar we get we can buy 10 days of server time, or 200 leaflets we can use to spread the message of kopimism.
+
+<input type="text" id="amount" value="15">
 
 <form action="" method="POST">
   <script
-    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    src="https://checkout.stripe.com/checkout.js" id="stripe" class="stripe-button"
     data-key="pk_GNrXrLKfukPKT8VNQS39HHmIrImb0"
     data-amount="1000"
-    data-name="$10 Donation"
-    data-description="$10 Donation to the Kopimist Church"
+    data-name="Donation"
+    data-description="Donation to the Kopimist Church"
     data-image="/images/logo.png">
   </script>
 </form>
 
-<form action="" method="POST">
-  <script
-    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-    data-key="pk_GNrXrLKfukPKT8VNQS39HHmIrImb0"
-    data-amount="2500"
-    data-name="$25 Donation"
-    data-description="$25 Donation to the Kopimist Church"
-    data-image="/images/logo.png">
-  </script>
-</form>
+<script>
+// 'Getting' data-attributes using getAttribute
+var stripe = document.getElementById('stripe');
+var amount = document.getElementById('amount');
+// 'Setting' data-attributes using setAttribute
+stripe.setAttribute('data-amount', amount + '00');
+</script>
