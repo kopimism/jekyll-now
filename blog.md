@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Blogs
+title: Latest Posts
 permalink: /blog/
 ---
 
-## Latest Posts
   {% for post in site.posts %}
     <article class="post">    
       

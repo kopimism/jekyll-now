@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+subtitlle: What are we about?
 permalink: /about/
 ---
 
@@ -8,13 +9,9 @@ Everything is a copy and remix, your DNA, culture, even the solar system and pos
 
 ### More Information
 
-From all at one and from one to all – and then back – exchange without beginning and without end. Everything to everyone’s delight, and everybody’s joy of it all. No privileges, no exclusions – everywhere. Every believer has all knowledge – all knowledge is spread by every believer to all people without exception. Start the exponential cascade.
+The Kopimist Church is the education and evangelical arm of our recognized religion "Kopimism". Kopimism is fundamentally the belief that everything from the beginning of time has been shared, remixed, and copied to create the world we live in today. Atoms would bind to form molecules which would bind to form complex structures and eventually through these remixes the ability to store and share information was created and we developed more and more complex ways of sharing information.
 
-Our opponents, those who seek to censor, control, and limit the internet, do so because the Internet is communication and communication is spreading knowledge. An open, unfettered internet is a threat to these individuals, who prefer to stand between creators, content, and its distribution. We love the internet, but they seek to close it, and may succeed in this goal incrementally throughout the next several years. All believers should consider their ability to find other ways than the existing internet to copy and distribute. All means other than violence and destruction of physical property are allowed.
-
-The message is spreading as it should – through the autonomous, the sovereign, through both individuals and groups.
-
-Kopimism is based on a few basic axioms, which in turn can be traced back back to our strong defense of the intrinsic value of information, We ascribe this value to all information irrespective of its content. Since information and its intrinsic value are so sacred, we Kopimists recognize the following axioms:
+We are made from the same material that we see in all the stars above us at night, everything around us is a remix of not only our parents and our relatively small history on Earth but also of what came billions of years before us. We honour that by seeking out new information, sharing all knowledge, and remixing and sharing the culture that has come before us and that is around us today.
 
 <ol>
 <li>Copying of information is ethically right.</li>

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Science
+subtitle: What's Happening In Science!?
 permalink: /science/
 ---
-
-## What's Happening In Science!?
 
 <ul>
   {% for post in site.categories.science %}
