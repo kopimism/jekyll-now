@@ -2,7 +2,7 @@
 layout: post
 title: Possible First Man Killed By Meroite
 image: /images/meteroiteimpact.jpg
-imagecredit: Indian authorities check out impact area Photograph: STR/AFP/Getty Images
+imagecredit: Indian authorities check out impact area (Photograph STR/AFP/Getty Images)
 category: science
 tags: [science]
 ---
