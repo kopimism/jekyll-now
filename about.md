@@ -7,6 +7,8 @@ permalink: /about/
 
 Everything is a copy and remix, your DNA, culture, even the solar system and possibly the universe. Kopimists embrace this, and embrace sharing knowledge. We base our belief system on science, and when we are wrong we admit we are wrong and move on. The highest truth is truth. 
 
+<iframe width="854" height="480" src="https://www.youtube.com/embed/8g4d-rnhuSg" frameborder="0" allowfullscreen></iframe>
+
 ### More Information
 
 The Kopimist Church is the education and evangelical arm of our recognized religion "Kopimism". Kopimism is fundamentally the belief that everything from the beginning of time has been shared, remixed, and copied to create the world we live in today. Atoms would bind to form molecules which would bind to form complex structures and eventually through these remixes the ability to store and share information was created and we developed more and more complex ways of sharing information.
