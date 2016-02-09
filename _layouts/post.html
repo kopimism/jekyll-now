@@ -3,15 +3,36 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+{% if page.image %}
+<div class="featuredimage">
+  <img src="{{ page.image }}" width="100%">
+  {{ page.imagecredit }}
+  </div>
+{% endif %}
+
+<h2 class="pagetitle">{{ page.title }}</h2>
+  <h1></h1>
 
   <div class="entry">
     {{ content }}
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  &mdash; {{page.author}} <i>on</i> {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% include disqus.html disqus_identifier=page.disqus_identifier %}
+  <form id="mailinglist">
+  <h5>Join Our Flock</h5>
+  <p>Get our weekly blog posts by emails, get direct access to church leadership to talk to and ask questions, and more with just your email address.</p>
+  <div class="row">
+
+    <div class="six columns">
+      <input class="u-full-width" type="email" placeholder="test@mailbox.com" id="exampleEmailInput">
+    </div>
+    <div class="six columns">
+  <input class="button-primary" type="submit" value="Submit">
+  </div>
+  </div>
+</form>
+
 </article>

@@ -1,27 +1,29 @@
 ---
 layout: default
 ---
-<div class="posts">
+  <div id="video">
+  <div class="container">
 
-					<p>Kopimism is based on a few basic axioms, which in turn can be traced back back to our strong defense of the intrinsic value of information, We ascribe this value to all information irrespective of its content. Since information and its intrinsic value are so sacred, we Kopimists recognize the following axioms:</p>
+    </div>
+  </div>
 
-					<ol>
-						<li>Copying of information is ethically right.</li>
-						<li>Dissemination of information is ethically right.</li>
-						<li><em>Copymixing</em> is a sacred kind of copying, moreso than the perfect, digital copying, because it expands and enhances the existing wealth of information</li>
-						<li>Copying or remixing information communicated by another person is seen as an act of respect and a strong expression of acceptance and Kopimistic faith.</li>
-						<li>The internet is holy.</li>
-					</ol>
-					<p>Members of Kopimism (Kopimists) and Church of Kopimism recognized religious representatives (Operators) dedicate their lives to living in accordance with these axioms. The only correct way for a Kopimist to list is through the sanctification of these religious foundations.</p>
-					<p><a href="/about/">Read More About Us</a></p>
+    <script src="{{ site.baseurl }}/js/jquery.youtubebackground.js"></script>
+  <script>
+    jQuery(function($) {
 
-### Latest Posts
-  {% for post in site.posts %}
-    <article class="post">    
-      
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+      $('#video').YTPlayer({
+        fitToBackground: false,
+        videoId: '7bNXt44B7Zc',
+        pauseOnScroll: false,
+        playerVars: {
+          modestbranding: 0,
+          autoplay: 1,
+          controls: 0,
+          showinfo: 0,
+          branding: 0,
+          rel: 0,
+          autohide: 0
+        }
+      });
+      });
+      </script>

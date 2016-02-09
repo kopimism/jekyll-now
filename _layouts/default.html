@@ -1,56 +1,91 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+<html lang="en">
+<head>
 
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="Kopimist Church">
 
-    <meta name="author" content="{{ site.name }}" />
-    <meta name="description" content="{{ site.description }}">
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <body>
-    <div class="wrapper-masthead">
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/normalize.css" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/skeleton.css" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/custom.css" />
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+</head>
+<body>
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <section class="header">
+    <div class="container">
+
+      <h2 class="title">Kopimist <img src="{{ site.avatar }}" height="30px"/> Church</h2>
+
+    </div>
+  </section>
+  <nav class="navbar">
       <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-          
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-          
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
+        <ul class="navbar-list">
+          <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}/about">About</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}/blog">Blog</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}/science">Science</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}/music">Music</a></li>
+        </ul>
+        <ul class="navbar-list u-pull-right">
+          <li class="navbar-item"><a class="button button-primary" href="{{ site.baseurl }}/donate">Donate</a></li>
+        </ul>
+      </div>
+    </nav>
+
+
+  {{ content }}
+ 
+
+<section class="footer">
+    <div class="container">
+      <div class="row">
+        <h2 class="subtitle">Spreading Knoweldge. Sharing Culture.</h2>
+
+        <div class="three columns">
+          <p><i class="fa fa-creative-commons"></i> BY-SA 2016</p>
+        </div>
+        <div class="five columns">
+          <p>New blog posts on Fridays and new science roundups on Mondays.</p>
+        </div>
+        <div class="three columns">
+          <p><a href="http://facebook.com/kopimist"><i class="fa fa-facebook-official fa-2x"></i></a> <a href="http://twitter.com/kopimistchurch"><i class="fa fa-twitter-square fa-2x"></i></a> <a href="https://www.youtube.com/channel/UCyAH9cwqpRxvAvjEYPHGFNA"><i class="fa fa-youtube-square fa-2x"></i></a></p>
+        </div>
       </div>
     </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
-  </body>
+  </section>
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  {% include analytics.html %}
+</body>
 </html>
+
+
+    
