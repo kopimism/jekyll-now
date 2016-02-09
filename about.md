@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitlle: What are we about?
+subtitle: What are we about?
 permalink: /about/
 ---
 
