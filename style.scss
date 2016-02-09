@@ -133,8 +133,9 @@ ul .bloglist a {
   text-decoration: none;
 }
 
-a .logo {
+a.logo {
   text-decoration:none;
+  color:$white;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
