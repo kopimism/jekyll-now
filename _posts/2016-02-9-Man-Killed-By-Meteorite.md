@@ -3,6 +3,8 @@ layout: post
 title: Possible First Man Killed By Meroite
 image: /images/meteroiteimpact.jpg
 imagecredit: Indian authorities check out impact area Photograph: STR/AFP/Getty Images
+category: science
+tags: [science]
 ---
 
 On Saturday, a falling meteorite is thought to have killed V. Kamaraj, a bus driver at Bharathidasan Engineering College in the southern Indian state of Tamil Nadu.
