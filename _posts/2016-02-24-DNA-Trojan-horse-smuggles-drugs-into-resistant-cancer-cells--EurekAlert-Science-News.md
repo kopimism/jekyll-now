@@ -3,8 +3,9 @@ layout: post
 title: DNA 'Trojan horse' smuggles drugs into resistant cancer cells | EurekAlert! Science News
 fromurl: http://www.eurekalert.org/pub_releases/2016-02/osu-dh022316.php
 category: science
-tags: [science, stories]
+tags: [science]
 ---
+
 COLUMBUS, Ohio--Researchers at The Ohio State University are working on a new
 way to treat drug-resistant cancer that the ancient Greeks would approve of--
 only it's not a Trojan horse, but DNA that hides the invading force.
