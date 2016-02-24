@@ -41,6 +41,10 @@ layout: default
   &mdash; {{page.author}} <i>on</i> {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  {% if page.fromurl %}
+  <p><a href="{{ page.fromurl }}" class="source-url">Source Page</a></p>
+  {% endif %}
+
   <div id="mailinglist">
   <h5>Join Our Flock</h5>
   <p>Get our weekly blog posts by emails, get direct access to church leadership to talk to and ask questions, and more with just your email address.</p>
