@@ -30,8 +30,6 @@ Luef](https://www.researchgate.net/profile/Eva_Luef), a primatologist at the
 Max Planck Institute for Ornithology in Seewiesen, Germany, observed two
 groups of wild western lowland gorillas in the Republic of the Congo.
 
-##### Advertisement
-
 Luef identified two different types of sound that the gorillas sometimes made
 when eating. One of them was humming – [a steady low-frequency
 tone](https://www.newscientist.com/article/giraffes-spend-their-evenings-
@@ -46,16 +44,8 @@ are [composing their little food
 songs](https://www.newscientist.com/article/dn28265-zoologger-dj-frogs-sing-
 like-birds-remixing-tunes-on-the-hop/).”
 
-![](https://ss3.zedo.com/jsc/images/inReadcloseicon.png)
+  
 
-**Advertisement:** **Replay Ad**
-
-![](https://ss3.zedo.com/jsc/images/spcr.gif)  
-  
----  
-  
-Ads by ZINC  
-  
 [Ali Vella-Irving](https://uk.linkedin.com/in/ali-vella-irving-64967835), who
 looks after gorillas at Toronto Zoo in Canada, says humming and singing is a
 frequent part of mealtimes there. “Each gorilla has its own voice: you can
@@ -106,8 +96,4 @@ the flexibility we see in language,” she says.
 rhythm](https://www.newscientist.com/article/mg22430000-300-born-to-dance-the-
 animals-with-natural-rhythm/)**
 
-More on these topics:
-
-  * [biology](/article-topic/biology/)
-  * [evolution](/article-topic/evolution/)
 
