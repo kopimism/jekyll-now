@@ -6,8 +6,6 @@ category: science
 tags: [science]
 ---
 
-Advertisement - Continue Reading Below
-
 This thin robotic skin looks like could have been flayed straight from an
 octopus. As it warps, bends, and stretches to five times its original size, it
 senses pressure and makes a rainbow of different colors of light. Metal men be
@@ -36,9 +34,6 @@ __
 "You could imagine taking your smartphone out of your pocket and being able to
 stretch it into a much larger tablet"
 
-  * [ __ Share  ](//www.facebook.com/v2.3/dialog/feed?app_id=218456798186610&name=%22You+could+imagine+taking+your+smartphone+out+of+your+pocket+and+being+able+to+stretch+it+into+a+much+larger+tablet%22&description=Stretchy+Glow-in-the-Dark+Octopus+Skin+for+Robots+Is+Real&display=popup&link=http://www.popularmechanics.com/science/a19756/stretchy-octopus-skin/&picture=http://pop.h-cdn.co/assets/16/09/640x320/landscape-1457040062-screen-shot-2016-03-03-at-42210-pm.png&redirect_uri=http://www.popularmechanics.com/science/a19756/stretchy-octopus-skin/&version=v2.3)
-
-  * [ __ Tweet  ](//www.twitter.com/share?url=http://www.popularmechanics.com/science/a19756/stretchy-octopus-skin/&text=%22You%20could%20imagine%20taking%20your%20smartphone%20out%20of%20your%20pocket%20and%20being%20able%20to%20stretch%20it%20into%20a%20much%20l&via=PopMech)
 
 ### Three-Layered Approach
 
@@ -62,15 +57,6 @@ That's where the researchers got lucky. In the past few years a team of
 Harvard researchers developed a silicone hydrogel material that fit this bill.
 Peele and his colleagues used a modified version of it.
 
-![](//pop.h-cdn.co/assets/popularmechanics/20160301174220/images/blank.png)
-
-GIF
-
-__
-
-__
-
-  * [ __ Pin  ](//pinterest.com/pin/create/button/?url=http://www.popularmechanics.com/science/a19756/stretchy-octopus-skin/&media=http://pop.h-cdn.co/assets/16/09/1457042973-octo.gif&description=Stretchy+Glow-in-the-Dark+Octopus+Skin+for+Robots+Is+Real  - PopularMechanics.com)
 
 Peele goes on: "Lastly, because these two materials are running at a really
 high voltage, you need an insulating outside layer of silicone so that you

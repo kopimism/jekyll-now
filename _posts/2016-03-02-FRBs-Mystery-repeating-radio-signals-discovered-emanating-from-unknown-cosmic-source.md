@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FRBs: Mystery repeating radio signals discovered emanating from unknown cosmic source
+title: FRBs - Mystery repeating radio signals discovered emanating from unknown cosmic source
 fromurl: http://www.ibtimes.co.uk/frbs-mystery-repeating-radio-signals-discovered-emanating-unknown-cosmic-source-1547133
 category: science
 tags: [science]
@@ -16,8 +16,6 @@ Since their discovery over a decade ago, scientists have been searching for
 more to try to understand their origin. At present, there are several theories
 as to what they could be, with most involving some cataclysmic event like a
 supernova or a neutron star collapsing into a black hole.
-
-[Why advertise with us](/corporate/advertise-with-us)
 
 All of the events seen so far appear to have been one-offs, with subsequent
 observations failing to find follow-up bursts coming from the same position as
