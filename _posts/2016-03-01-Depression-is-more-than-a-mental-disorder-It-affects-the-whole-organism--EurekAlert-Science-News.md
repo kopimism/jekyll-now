@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Depression is more than a mental disorder: It affects the whole organism | EurekAlert! Science News
+title: Depression is more than a mental disorder - It affects the whole organism | EurekAlert! Science News
 fromurl: http://www.eurekalert.org/pub_releases/2016-03/uog-dim030116.php
 category: science
 tags: [science]
 ---
-
-[
 
 ![IMAGE](http://media.eurekalert.org/multimedia_prod/pub/web/110156_web.jpg)
 
