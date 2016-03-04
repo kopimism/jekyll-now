@@ -10,9 +10,7 @@ tags: [science]
 
 ![IMAGE](http://media.eurekalert.org/multimedia_prod/pub/web/110156_web.jpg)
 
-](http://www.eurekalert.org/multimedia/pub/110156.php)
-
-**IMAGE: **This photo shows Manuel Gurpegui (UGR), Christoph Correll (Zucker Hillside Hospital, New York) and Sara Jiménez (UGR). [view more __](http://www.eurekalert.org/multimedia/pub/110156.php)
+**IMAGE: **This photo shows Manuel Gurpegui (UGR), Christoph Correll (Zucker Hillside Hospital, New York) and Sara Jiménez (UGR)
 
 Credit: Manuel Gurpegui (UGR), Christoph Correll (Zucker Hillside Hospital,
 New York) and Sara Jiménez (UGR). PHOTO: PRESS
