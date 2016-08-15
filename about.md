@@ -15,15 +15,16 @@ The Kopimist Church is the education and evangelical arm of our recognized relig
 
 We are made from the same material that we see in all the stars above us at night, everything around us is a remix of not only our parents and our relatively small history on Earth but also of what came billions of years before us. We honour that by seeking out new information, sharing all knowledge, and remixing and sharing the culture that has come before us and that is around us today.
 
-<ol>
+<ul>
 <li>Sharing of culture and knoweldge is ethically right in all cases.</li>
 <li>Dissemination of information is ethically right.</li>
 <li><em>Remixing</em> is a sacred kind of copying, moreso than the perfect, digital copying, because it expands and enhances the existing wealth of information</li>
 <li>Copying or remixing information communicated by another person is seen as an act of respect and a strong expression of acceptance and Kopimistic faith.</li>
 <li>Self expression through hair, clothes, and general appearence promotes cultural growth.</li>
-<li>Those who share education and dedicate themselves to teaching others are amongst the most holy, while those who spread lies are the most corrupt</li>
+<li>Those who share education and dedicate themselves to teaching others are amongst the most holy, while those who spread lies are the most corrupt.</li>
+<li>Those who create art, music, film, video games, or other creative expressions are also amongst the most holy, while those who try to remove the creative works from the commons are the most corrupt.</li>
 <li>The Internet is knoweldge and culture. The Internet is holy.</li>
-</ol>
+</ul>
 
 Members of Kopimism (Kopimists) and Church of Kopimism recognized religious representatives (Operators) dedicate their lives to living in accordance with these axioms. The only correct way for a Kopimist to live is through the sanctification of these religious foundations.
 
